@@ -1,0 +1,20 @@
+{
+  "name": "testing_client_spectral_rule",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "inheritedOverrides": {
+    "info-contact": {
+      "severity": "off"
+    }
+  },
+  "extendedDefault": false
+}
